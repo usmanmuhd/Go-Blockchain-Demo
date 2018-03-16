@@ -2,6 +2,9 @@
 
 A blockchain implementation in Go.
 
+A bitcoin clone in Go that works perfectly fine except for the "p2p" connections in it's true sense!
+
+Example commands to get started:
 ```
 $ go install
 
